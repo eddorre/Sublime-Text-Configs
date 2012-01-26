@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Rails.logger.debug "DEBUG: ${1:message}" $0]]></content>
+    <tabTrigger>rldb</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>rails.logger.debug</description>
+</snippet>
